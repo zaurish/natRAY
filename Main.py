@@ -73,7 +73,7 @@ def ObslugaMenuGlowne():
 
 
 #################################################################
-print("natRAY\n" + "Wersja 1.0\n")
+print("natRAY\n" + "Wersja 0.1\n")
 print("Witaj w programie natRay\n")
 ObslugaMenuGlowne()
 
