@@ -1,0 +1,9 @@
+INSTRUKCJA PROGRAMU natXRY:
+							
+1. Otworz katalog programu.
+2. Znajdz pliki tekstowe o nazwie "nat1.txt" oraz "nat2.txt".
+3. Do pliku nat1.txt skopiuj elementy (numery telefonow) z pliku Exel (powinny byc ustawione w kolumnie).
+4. Uruchom program wybierając "2" na klawiaturze.
+5. Wynik działania programu zostanie wyswietlony w konsoli, a takze zapisany do pliku tekstowegoo nazwie "wynik.txt".
+
+NIGDY NIE USUWAJ PLIKOW: "nat1.txt" oraz "nat2.txt"!!!!!
